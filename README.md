@@ -2,13 +2,17 @@
 
 ###
 
-<p align="left">- Computer Engineer (411835MG)<br>- System Analyst at @Vallourec<br>- ABAP developer<br>- Seeking new knowledge in systems development and learning new programming languages</p>
+<br clear="both">
+
+<p align="left">- Computer Engineer (411835MG)<br>- System Analyst at @Vallourec<br>- Systems Developer<br>- Seeking new knowledge in systems development and learning new programming languages</p>
 
 ###
 
 <h2 align="left">Techs</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -35,6 +39,8 @@
 <h2 align="left">Stats</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mleeana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=aura_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
