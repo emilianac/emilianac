@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">- Computer Engineer (411835MG)<br>- System Analyst at @Vallourec<br>- Systems Developer<br>- Seeking new knowledge in systems development and learning new programming languages</p>
+<p align="left">- Computer Engineer<br>- System Analyst at @Vallourec<br>- Systems Developer<br>- Seeking new knowledge in systems development and learning new programming languages</p>
 
 ###
 
