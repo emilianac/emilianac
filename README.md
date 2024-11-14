@@ -34,20 +34,6 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emiliana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=aura_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilianac&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=emiliana&locale=en&mode=weekly&theme=aura_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
