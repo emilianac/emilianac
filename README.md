@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Emiliana</h2>
+<h2 align="left">Hello World!👋 My name is Emiliana</h2>
 
 ###
 
-<p align="left">Hello World!<br><br>I'm a Computer Engineer specializing in Cybersecurity and Data Governance. Currently, I work as a Project Manager and SAP/ABAP Systems Analyst & Developer at Vallourec. Always hungry for knowledge, I'm diving deeper into system development and picking up new programming languages along the way! 🚀</p>
+<p align="left">I'm a Computer Engineer specializing in Cybersecurity and Data Governance. Currently, I work as a Project Manager and SAP/ABAP Systems Analyst & Developer at Vallourec. Always hungry for knowledge, I'm diving deeper into system development and picking up new programming languages along the way! 🚀</p>
 
 ###
 
