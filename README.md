@@ -59,13 +59,13 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/emilianacandida/" target="blank">
+  <a href="https://www.linkedin.com/in/emilianacandidadasilva/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://www.instagram.com/emilianacandida/" target="blank">
+  <a href="https://www.instagram.com/_anailime/" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
-  <a href="mailto:emilianacandida@gmail.com">
+  <a href="mailto:emilianacandsilva@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
