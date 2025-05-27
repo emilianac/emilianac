@@ -70,9 +70,7 @@
   </a>
 </p>
 
-## 🐍 Contribution Snake
-
-![snake](https://github.com/emilianac/emilianac/blob/main/dist/github-snake.svg)
+![snake](https://raw.githubusercontent.com/emilianac/emilianac/main/dist/github-snake.svg)
 
 
 ---
