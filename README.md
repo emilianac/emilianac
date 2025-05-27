@@ -58,6 +58,17 @@
 
 ---
 
+## 🏅 Certifications
+
+- SAP ABAP Academy
+- SAP QM ECC & S4Hana
+- Scrum Foundations Professional Certificate (SFPC)
+- SAP Activate: agile management in SAP projects
+- Pentest: Exploring Web Application Vulnerabilities  
+- Microsoft Power BI for Data Science
+- Agile Software Engineer
+- Business Process Analyst
+
 ## 📫 Let's Connect
 
 <p align="left">
