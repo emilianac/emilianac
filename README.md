@@ -59,7 +59,7 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/emilianacandidadasilva/" target="blank">
+  <a href="https://www.linkedin.com/in/emilianacandidasilva/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/_anailime/" target="blank">
