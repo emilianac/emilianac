@@ -70,9 +70,6 @@
   </a>
 </p>
 
-![snake](https://raw.githubusercontent.com/emilianac/emilianac/main/dist/github-snake.svg)
-
-
 ---
 
 > *"Do not fear mistakes. There are none." — Miles Davis*
