@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I'm a Computer Engineer specializing in Cybersecurity and Data Governance. Currently, I work as a Project Manager and SAP/ABAP Systems Analyst & Developer at Vallourec. Always hungry for knowledge, I'm diving deeper into system development and picking up new programming languages along the way! 🚀</p>
+<p align="left">
+🚀 Computer Engineer | Cybersecurity & Data Governance Specialist <br><br>
+I currently work as a Project Manager and SAP/ABAP Systems Analyst & Developer at Vallourec. Passionate about technology, cybersecurity, and innovation, I'm always learning, building, and exploring new challenges — from system development to digital forensics. <br><br>
+💡 I love transforming complex problems into efficient, secure, and scalable solutions.
+</p>
 
 ###
 
