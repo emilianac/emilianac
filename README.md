@@ -6,10 +6,8 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working at **Vallourec** as a **Project Manager & SAP Systems Analyst & ABAP Devgeloper**.
-- 🌱 Currently learning **Flutter** to build mobile and responsive web apps.
 - 👩‍💻 Passionate about **Cybersecurity**, **Digital Forensics**, **Backend Development**, and **Process Automation**.
 - 🎯 Focused on delivering value through technology, solving complex problems, and continuous learning.
-- ⚡ Fun fact: I was born in a small town in Minas Gerais (Santos Dumont) and technology has been my passion since forever!
 
 ---
 
