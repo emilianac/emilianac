@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emiliana Cândida</h1>
-<h3 align="center">👩‍💻 Computer Engineer | 🔐 Cybersecurity & Data Governance Specialist | 💻 SAP/ABAP Developer | 🎯 Project Manager & Scrum Master</h3>
+<h3 align="center">👩‍💻 Computer Engineer | 🔐 Cybersecurity & Data Governance Specialist | 💻 SAP/ABAP Developer
 
 ---
 
@@ -86,6 +86,9 @@
   </a>
   <a href="mailto:emilianacandsilva@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://wa.me/+5532998406067" target="blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatshapp"/>
   </a>
 </p>
 
