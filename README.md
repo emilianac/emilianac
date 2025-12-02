@@ -58,7 +58,7 @@
 ## 🎮 Fun Facts
 
 ☕ Runs on coffee, curiosity, and code.  
-🕹️ Gamer in my free time — catch me on 🟣 [Twitch](https://www.twitch.tv/mleeana)!  
+🕹️ Gamer in my free time — catch me on 🟣 [Twitch](https://www.twitch.tv/mimiuzinha)!  
 🐍 Python is my favorite scripting buddy — just like a true Slytherin, cunning and resourceful!  
 📚 Proud Slytherin from the house of ambition and Python mastery (because who else would tame that serpent?).
 
