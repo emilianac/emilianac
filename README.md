@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emiliana Cândida</h1>
+<h1 align="center">Hi 👋, I'm Emiliana Candida</h1>
 <h3 align="center">👩‍💻 Computer Engineer | 🔐 Cybersecurity & Data Governance Specialist | 💻 SAP/ABAP Developer
 
 ---
