@@ -42,9 +42,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilianac&layout=compact&theme=tokyonight&locale=en" />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilianac/emilianac/output/pacman-contribution-graph-dark.svg">
